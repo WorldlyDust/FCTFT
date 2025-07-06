@@ -15,5 +15,7 @@
    ```bash
    python train.py
    
-4. **模型测试**  
-  python test.py
+4. **模型测试**
+   执行训练脚本：  
+   ```bash
+   python test.py
